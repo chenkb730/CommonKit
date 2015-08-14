@@ -3,4 +3,8 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="comm_error_noneNetwork">没有网络连接</string>
+    <string name="comm_error_resultIllegal">数据解析出错</string>
+    <string name="comm_error_timeout">网络不给力</string>
 </resources>
