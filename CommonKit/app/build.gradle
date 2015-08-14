@@ -32,6 +32,6 @@ dependencies {
     compile 'com.facebook.fresco:fresco:0.5.0'
 }
 
-apply from: "https://raw.githubusercontent.com/chenkb730/CommonKit/master/CommonKit/bintray.gradle"
+apply from: "https://raw.githubusercontent.com/chenkb730/CommonKit/master/bintray.gradle"
 
 
